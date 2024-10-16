@@ -10,4 +10,5 @@ Problem: Design& implement a Circuit to count the number of one's in a given inp
 ![image](https://github.com/user-attachments/assets/a1a2d38c-55d0-48a2-b502-78618a469f34)
 
 ->SAMPLE DESIGN FOR 7 BIT USING 4 FULL ADDERS:
+
 ![image](https://github.com/user-attachments/assets/126997a5-2a36-4657-85f3-7a47ffbea120)
